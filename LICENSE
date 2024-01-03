@@ -1,21 +1,46 @@
-MIT License
+IP ADDRESS LOOKUP TOOL LICENSE AGREEMENT
 
-Copyright (c) 2024 Mohamad
+This license agreement ("Agreement") is entered into between [MGC] ("Licensor") and the user ("Licensee") of the IP address lookup tool software developed in Python ("Software").
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. GRANT OF LICENSE
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Subject to the terms and conditions of this Agreement, Licensor hereby grants Licensee a non-exclusive, non-transferable, revocable license to use the Software for personal, non-commercial purposes.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. RESTRICTIONS
+
+Licensee shall not, without the prior written consent of Licensor:
+
+a. Sell, lease, sublicense, distribute, or otherwise commercially exploit the Software;
+b. Modify, adapt, alter, reverse engineer, decompile, disassemble, or create derivative works based on the Software;
+c. Remove or alter any proprietary notices or labels on the Software.
+
+3. COPYRIGHT
+
+The Software is protected by copyright laws and international copyright treaties. All intellectual property rights in the Software are owned by Licensor.
+
+4. NO WARRANTY
+
+The Software is provided "as is" without any warranty of any kind, either expressed or implied. Licensor makes no representations or warranties regarding the accuracy or completeness of the results obtained through the use of the Software.
+
+5. LIMITATION OF LIABILITY
+
+In no event shall Licensor be liable for any indirect, special, incidental, or consequential damages arising out of the use or inability to use the Software, even if Licensor has been advised of the possibility of such damages.
+
+6. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of [COPYRIGHT].
+
+7. TERMINATION
+
+This Agreement is effective until terminated. Licensor may terminate this Agreement at any time without notice. Upon termination, Licensee shall cease all use of the Software and destroy all copies in their possession.
+
+8. GENERAL
+
+This Agreement constitutes the entire understanding between Licensor and Licensee concerning the subject matter hereof and supersedes all prior and contemporaneous agreements and understandings, whether oral or written.
+
+IN WITNESS WHEREOF, the parties hereto have executed this License Agreement as of the effective date.
+
+[MGC]
+Licensor
+
+[01,03,2024]
