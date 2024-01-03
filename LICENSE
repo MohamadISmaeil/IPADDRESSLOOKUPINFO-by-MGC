@@ -1,46 +1,38 @@
 IP ADDRESS LOOKUP TOOL LICENSE AGREEMENT
 
-This license agreement ("Agreement") is entered into between [MGC] ("Licensor") and the user ("Licensee") of the IP address lookup tool software developed in Python ("Software").
+This license agreement ("Agreement") is entered into between MGC ("Licensor") and the user ("Licensee") of the IP address lookup tool software developed in Python ("Software").
 
-1. GRANT OF LICENSE
-
+GRANT OF LICENSE
 Subject to the terms and conditions of this Agreement, Licensor hereby grants Licensee a non-exclusive, non-transferable, revocable license to use the Software for personal, non-commercial purposes.
 
-2. RESTRICTIONS
-
+RESTRICTIONS
 Licensee shall not, without the prior written consent of Licensor:
 
 a. Sell, lease, sublicense, distribute, or otherwise commercially exploit the Software;
 b. Modify, adapt, alter, reverse engineer, decompile, disassemble, or create derivative works based on the Software;
 c. Remove or alter any proprietary notices or labels on the Software.
 
-3. COPYRIGHT
-
+COPYRIGHT
 The Software is protected by copyright laws and international copyright treaties. All intellectual property rights in the Software are owned by Licensor.
 
-4. NO WARRANTY
-
+NO WARRANTY
 The Software is provided "as is" without any warranty of any kind, either expressed or implied. Licensor makes no representations or warranties regarding the accuracy or completeness of the results obtained through the use of the Software.
 
-5. LIMITATION OF LIABILITY
-
+LIMITATION OF LIABILITY
 In no event shall Licensor be liable for any indirect, special, incidental, or consequential damages arising out of the use or inability to use the Software, even if Licensor has been advised of the possibility of such damages.
 
-6. GOVERNING LAW
+GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of COPYRIGHT.
 
-This Agreement shall be governed by and construed in accordance with the laws of [COPYRIGHT].
-
-7. TERMINATION
-
+TERMINATION
 This Agreement is effective until terminated. Licensor may terminate this Agreement at any time without notice. Upon termination, Licensee shall cease all use of the Software and destroy all copies in their possession.
 
-8. GENERAL
-
+GENERAL
 This Agreement constitutes the entire understanding between Licensor and Licensee concerning the subject matter hereof and supersedes all prior and contemporaneous agreements and understandings, whether oral or written.
 
 IN WITNESS WHEREOF, the parties hereto have executed this License Agreement as of the effective date.
 
-[MGC]
+MGC
 Licensor
 
-[01,03,2024]
+01,03,2024
