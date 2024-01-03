@@ -9,7 +9,7 @@ Usage Instructions:
 
 Step 1: Download from GitHub
 
-Visit our GitHub repository [provide the link].
+Visit our GitHub repository https://github.com/MohamadISmaeil/IPADDRESSLOOKUPINFO-by-MGC.git.
 Download the IP Address Lookup Tool script to your local machine.
 Step 2: Setup Environment
 
